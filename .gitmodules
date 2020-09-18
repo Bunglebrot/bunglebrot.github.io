@@ -1,3 +1,7 @@
 [submodule "hotel-the-toxin"]
 	path = hotel-the-toxin
 	url = https://github.com/Bunglebrot/hotel-the-toxin
+
+[submodule "bicycle-site"]
+	path = bicycle-site
+	url = git@github.com:Bunglebrot/bicycle-site.git
