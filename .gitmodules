@@ -4,4 +4,4 @@
 
 [submodule "bicycle-site"]
 	path = bicycle-site
-	url = git@github.com:Bunglebrot/bicycle-site.git
+	url = https://github.com/Bunglebrot/bicycle-site
